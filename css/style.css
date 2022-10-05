@@ -1,0 +1,49 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(176, 196, 222);
+}
+
+#jumbotron {
+    background-image: url('../img/bacteria.jpg');
+    -webkit-text-stroke: 0px;
+    -webkit-text-stroke-color: black;
+    background-position: center;
+    color: aliceblue;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+
+#bar {
+    border-radius: 70px;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+#gauge {
+    border-radius: 70px;
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+#bubble {
+    border-radius: 70px;
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-bottom: 20px;
+}
+
+#test-subject-selection {
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 50px;
+    padding: 20px;
+}
+
+#demographic-info-body {
+    border-radius: 50px;
+    padding: 10%;
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 0px;
+}
+
+#demographic-info-header {
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border: 0px;
+}
